@@ -12,5 +12,5 @@
     <li>Still needs to be PEP8 proofed, don't have the time as of right now.</li>
     <li>Suggestions are welcome as issues in this github repo.</li>
 </ul>
-<p>Just in case you mind: kar3a means "bottle" in arabic ;)/p>
+<p>Just in case you mind: kar3a means "bottle" in arabic ;)</p>
 <b>-mak</b>
