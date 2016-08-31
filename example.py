@@ -32,7 +32,7 @@ app.install(
 )
 
 # set example route requiring a valid token
-@app.post('/')
+@app.get('/')
 @require_jwt_auth
 def private_resource():
     return "Request accepted!"
